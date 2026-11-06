@@ -1,16 +1,32 @@
-## Hi there 👋
+# Syed Muhammad Rayyan Hassan
 
-<!--
-**rayyanhasan899/rayyanhasan899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering student focused on backend development** · Islamabad, Pakistan
 
-Here are some ideas to get you started:
+I'm pursuing a BS in Software Engineering at the National University of Computer and Emerging Sciences (FAST-NUCES), Islamabad Campus. I'm in my fifth semester, with expected graduation in **2028**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests centre on Java backend development, SQL/database design, application architecture, and reliable software. My projects also explore C++ game logic, Python data tools, and TypeScript web applications. I'm seeking **software engineering internships and entry-level backend opportunities** in Pakistan and internationally.
+
+## Selected work
+
+| Project | What to look for |
+|---|---|
+| [Java Terminal Music Player](https://github.com/rayyanhasan899/Java-MusicPlayer) | Java Sound playback, playlist persistence, class responsibilities, and regression checks |
+| [Pixel Punch](https://github.com/rayyanhasan899/Pixel-Punch) | C++/SFML animation, input handling, hitboxes, and game-state logic |
+| [Console Chess](https://github.com/rayyanhasan899/Console-Chess) | A personal chess variant, board representation, movement checks, and bounded terminal input |
+| [Console UNO Cards](https://github.com/rayyanhasan899/Console-UnoCards) | Academic team work with a custom stack, linked-list hands, and turn handling |
+| [Rahbar](https://github.com/rayyanhasan899/Rahbar) | Ongoing academic team work in document-grounded question answering, Python, indexing, and Kubernetes; see the repository's current branch/PR status |
+
+For a software-quality case study, see [Mashbot's separate portfolio branch](https://github.com/rayyanhasan899/Mashbot/tree/portfolio/2026-11-professionalize): requirement traceability, disclosed AI assistance, and preserved evaluation evidence. Its original coursework baseline includes intentionally introduced defects and is not a production-service example.
+
+## Technical foundation
+
+- **Backend and data:** Java, Spring Boot, REST APIs, SQL Server, relational data modelling.
+- **Programming:** C++, Python, JavaScript/TypeScript; object-oriented and procedural design where appropriate.
+- **Application tools:** React/Next.js, Supabase, SFML, Streamlit, Git, and GitHub.
+- **Engineering interests:** validation, testing, maintainability, database integrity, and evidence-based use of AI assistance.
+
+Team projects are identified as team work. Repository documentation distinguishes implemented features, limitations, and checks actually run; no sole-authorship or production-readiness claim is implied.
+
+## Contact
+
+[Email](mailto:rayyanhasan899@gmail.com) · [LinkedIn](https://www.linkedin.com/in/syed-muhammad-rayyan-hasan-8379b2386/)
